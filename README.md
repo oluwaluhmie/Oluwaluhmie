@@ -4,10 +4,11 @@ Growing Frontend Web Developer looking to take continue growing his career.
 
 ## 💫 Little Bit More About Me
 
-INTERESTS:
-<p> 🤩 Improving my coding skills to become a full stack developer 🤩 </p>
-<p> 💻 New Technologies </p>
-<p> 🖥 Software Development.</p>
+- 🔭 I’m currently working on improving my coding skills to become a full stack developer 🤩
+- 🌱 I’m currently learning **VueJS**
+- 👯 I’m looking to collaborate on projects
+- 🤔 I’m looking for help with writing python codes on linux
+- 📫 How to reach me **oeolumide@gmail.com**
 
 ## 💻 Skills
 <p>
@@ -27,17 +28,7 @@ INTERESTS:
 <a href="https://www.linkedin.com/in/olumideolajide/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="blank"></a>
 <a href="https://web.facebook.com/olajide.ebenezerolumide/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="blank"></a>
 </p>
-<!--
-**oluwaluhmie/Oluwaluhmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oluwaluhmie&show_icons=true&locale=en&layout=compact" alt="oluwaluhmie" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oluwaluhmie&" alt="oluwaluhmie" /></p>
