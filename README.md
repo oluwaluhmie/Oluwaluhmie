@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Olumide Olajide</h1>
-<h3 align="center">I am a Frontend Web Developer</h3>
+<h1 align="center">Hi 👋, My name is Olumide Olajide</h1>
 
-<p align="left"><a href="https://twitter.com/oluwaluhmie" target="blank"></a></p>
+Growing Frontend Web Developer looking to take continue growing his career.
 
 <!--
 **oluwaluhmie/Oluwaluhmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
