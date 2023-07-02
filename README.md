@@ -1,6 +1,6 @@
 # Hi 👋, My name is Olumide Olajide
 
-Growing Frontend Web Developer looking to take continue growing his career.
+I'm a Frontend Developer and a Tech Enthusiast!
 
 ## 💫 Little Bit More About Me
 
