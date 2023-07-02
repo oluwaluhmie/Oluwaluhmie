@@ -9,6 +9,7 @@ Growing Frontend Web Developer looking to take continue growing his career.
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with writing python codes on linux
 - 📫 How to reach me **oeolumide@gmail.com**
+- ⚡ Fun fact **Have diverse personalities**
 
 ## 💻 Skills
 <p>
