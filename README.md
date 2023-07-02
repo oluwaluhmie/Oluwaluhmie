@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Olumide Olajide</h1>
 <h3 align="center">I am a Frontend Web Developer</h3>
 
+<p align="left"><a href="https://twitter.com/oluwaluhmie" target="blank"><img src="https://img.shields.io/twitter/follow/oluwaluhmie?logo=twitter&style=for-the-badge" alt="oluwaluhmie" /></a></p>
+
 <!--
 **oluwaluhmie/Oluwaluhmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
