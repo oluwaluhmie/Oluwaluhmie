@@ -2,6 +2,13 @@
 
 Growing Frontend Web Developer looking to take continue growing his career.
 
+## 💫 Little Bit More About Me
+
+INTERESTS:
+<p> 🤩 Improving my coding skills to become a full stack developer 🤩 </p>
+<p> 💻 New Technologies </p>
+<p> 🖥 Software Development.</p>
+
 <!--
 **oluwaluhmie/Oluwaluhmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
