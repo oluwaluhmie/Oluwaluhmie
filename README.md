@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Olumide Olajide</h1>
+# Hi 👋, My name is Olumide Olajide
 
 Growing Frontend Web Developer looking to take continue growing his career.
 
