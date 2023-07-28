@@ -5,7 +5,7 @@ I'm a Frontend Developer and a Tech Enthusiast!
 ## 💫 Little Bit More About Me
 
 - 🔭 I’m currently working on improving my coding skills to become a full stack developer 🤩
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning how to use **Figma**
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with writing python codes on linux
 - 📫 How to reach me **oeolumide@gmail.com**
