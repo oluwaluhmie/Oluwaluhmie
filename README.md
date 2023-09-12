@@ -1,4 +1,4 @@
-# Hi 👋, My name is Ebenezer Olumide Olajide
+# Hi 👋, My name is Ebenezer Olajide
 
 I'm a Frontend Developer and a Tech Enthusiast!
 
