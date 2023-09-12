@@ -7,7 +7,6 @@ I'm a Frontend Developer and a Tech Enthusiast!
 - 🔭 I’m currently working on improving my coding skills to become a full stack developer 🤩
 - 🌱 I’m currently learning how to use **NodeJS**
 - 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with writing python codes on linux
 - 📫 How to reach me **oeolumide@gmail.com**
 - ⚡ Fun fact **Have diverse personalities**
 
