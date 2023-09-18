@@ -30,7 +30,6 @@ I'm a Frontend Developer and a Tech Enthusiast!
 <a href="https://www.twitter.com/oluwaluhmie"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="blank"></a>
 <a href="https://www.instagram.com/oluwaluhmie"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="blank"></a>
 <a href="https://www.linkedin.com/in/olumideolajide/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="blank"></a>
-<a href="https://web.facebook.com/olajide.ebenezerolumide/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="blank"></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oluwaluhmie&show_icons=true&locale=en&layout=compact" alt="oluwaluhmie" /></p>
