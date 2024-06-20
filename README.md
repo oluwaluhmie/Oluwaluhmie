@@ -5,7 +5,7 @@ I'm a Frontend Developer and a Tech Enthusiast!
 ## 💫 Little Bit More About Me
 
 - 🔭 I’m currently working on improving my coding skills to become a full stack developer 🤩
-- 🌱 I’m currently learning how to use **ReactJS**
+- 🌱 I’m currently looking into learning how to use **NextJS**
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me **oeolumide@gmail.com**
 - ⚡ Fun fact **Have diverse personalities**
