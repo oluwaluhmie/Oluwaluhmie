@@ -1,6 +1,6 @@
 # Hi 👋, My name is Ebenezer Olajide
 
-I'm a Frontend Developer and a Tech Enthusiast!
+I'm a Frontend Developer, IT Admin and a Tech Enthusiast!
 
 ## 💫 Little Bit More About Me
 
