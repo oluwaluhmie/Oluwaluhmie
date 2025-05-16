@@ -1,6 +1,6 @@
 # Hi 👋, My name is Ebenezer Olajide
 
-I'm a Frontend Developer, IT Support Specialist and Tech Enthusiast!
+I'm a Web Developer, IT Specialist and Tech Enthusiast!
 
 ## 💫 Little Bit More About Me
 
